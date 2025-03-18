@@ -9,3 +9,4 @@ xhofe/alist:latest
 docmost/docmost
 postgres:16-alpine
 redis:7.2-alpine
+artalk/artalk-go:latest
